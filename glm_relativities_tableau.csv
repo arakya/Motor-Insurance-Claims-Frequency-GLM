@@ -1,0 +1,57 @@
+factor,level,relativity,ci_low,ci_high,p_value,sort_key,significance
+Area,A,1.0,1.0,1.0,,,Baseline
+Area,B,1.026,0.97,1.085,0.366,,Not significant
+Area,C,1.011,0.94,1.087,0.762,,Not significant
+Area,D,1.044,0.935,1.165,0.446,,Not significant
+Area,E,1.038,0.897,1.202,0.617,,Not significant
+Area,F,0.977,0.798,1.195,0.819,,Not significant
+BonusMalus,per unit increase,1.023,1.023,1.024,0.0,,Significant
+DrivAgeBand,17-20,1.0,1.0,1.0,,17.0,Baseline
+DrivAgeBand,21-24,0.758,0.684,0.84,0.0,21.0,Significant
+DrivAgeBand,25-29,0.641,0.581,0.707,0.0,25.0,Significant
+DrivAgeBand,30-39,0.705,0.641,0.775,0.0,30.0,Significant
+DrivAgeBand,40-49,0.972,0.883,1.07,0.563,40.0,Not significant
+DrivAgeBand,50-59,0.933,0.847,1.028,0.159,50.0,Not significant
+DrivAgeBand,60-69,0.895,0.81,0.99,0.031,60.0,Significant
+DrivAgeBand,70-90,0.993,0.896,1.1,0.894,70.0,Not significant
+LogDensity,per unit increase,1.04,1.011,1.069,0.006,,Significant
+Region,R11,1.0,1.0,1.0,,11.0,Baseline
+Region,R21,1.129,0.941,1.354,0.191,21.0,Not significant
+Region,R22,1.104,0.987,1.235,0.084,22.0,Not significant
+Region,R23,0.983,0.861,1.123,0.806,23.0,Not significant
+Region,R24,1.116,1.057,1.178,0.0,24.0,Significant
+Region,R25,1.044,0.945,1.153,0.396,25.0,Not significant
+Region,R26,1.077,0.97,1.197,0.166,26.0,Not significant
+Region,R31,0.945,0.875,1.021,0.15,31.0,Not significant
+Region,R41,0.805,0.728,0.891,0.0,41.0,Significant
+Region,R42,0.975,0.801,1.187,0.799,42.0,Not significant
+Region,R43,0.903,0.665,1.227,0.515,43.0,Not significant
+Region,R52,1.034,0.968,1.106,0.319,52.0,Not significant
+Region,R53,1.146,1.076,1.221,0.0,53.0,Significant
+Region,R54,0.991,0.911,1.079,0.838,54.0,Not significant
+Region,R72,0.919,0.853,0.991,0.027,72.0,Significant
+Region,R73,0.933,0.85,1.025,0.15,73.0,Not significant
+Region,R74,1.206,1.04,1.397,0.013,74.0,Significant
+Region,R82,1.134,1.075,1.196,0.0,82.0,Significant
+Region,R83,0.773,0.656,0.91,0.002,83.0,Significant
+Region,R91,0.985,0.916,1.059,0.683,91.0,Not significant
+Region,R93,1.015,0.96,1.073,0.598,93.0,Not significant
+Region,R94,1.187,1.026,1.375,0.022,94.0,Significant
+VehAgeBand,0,1.0,1.0,1.0,,0.0,Baseline
+VehAgeBand,1-4,0.305,0.294,0.317,0.0,1.0,Significant
+VehAgeBand,10-20,0.268,0.257,0.279,0.0,10.0,Significant
+VehAgeBand,5-9,0.334,0.32,0.348,0.0,5.0,Significant
+VehBrand,B1,1.0,1.0,1.0,,1.0,Baseline
+VehBrand,B10,0.947,0.873,1.028,0.197,10.0,Not significant
+VehBrand,B11,1.026,0.938,1.121,0.577,11.0,Not significant
+VehBrand,B12,1.132,1.088,1.177,0.0,12.0,Significant
+VehBrand,B13,1.022,0.933,1.119,0.642,13.0,Not significant
+VehBrand,B14,0.799,0.67,0.954,0.013,14.0,Significant
+VehBrand,B2,0.997,0.964,1.031,0.861,2.0,Not significant
+VehBrand,B3,0.989,0.942,1.038,0.642,3.0,Not significant
+VehBrand,B4,0.991,0.928,1.057,0.776,4.0,Not significant
+VehBrand,B5,1.096,1.038,1.157,0.001,5.0,Significant
+VehBrand,B6,0.968,0.909,1.03,0.303,6.0,Not significant
+VehGas,Diesel,1.0,1.0,1.0,,,Baseline
+VehGas,Regular,1.046,1.021,1.071,0.0,,Significant
+VehPower,per unit increase,1.011,1.005,1.017,0.0,,Significant
